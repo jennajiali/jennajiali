@@ -6,5 +6,5 @@
 
 - 🎓 I’m a second-year Statistical Science student at University College London
 - 🌱 I’m currently learning Python, R, and SQL
-- 👯 My hobbies: Painting, Yoga, and K-pop dancing
+- 👯 My hobbies: Singing, Yoga, and Painting
 - 😄 Pronouns: She/Her
