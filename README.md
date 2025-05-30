@@ -5,6 +5,6 @@
 -->
 
 - 🎓 I’m a second-year Statistical Science student at University College London
-- 🌱 I’m currently learning Python, R, and SQL
+- 🌱 I'm currently learning Python, Java, R, and SQL
 - 👯 My hobbies: Singing, Yoga, and Painting
 - 😄 Pronouns: She/Her
