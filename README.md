@@ -5,6 +5,6 @@
 -->
 
 - 🎓 I’m a second-year Statistical Science student at University College London
-- 🌱 I'm currently learning about Kubernetes, EKS, and ArgoWF
+- 🌱 I'm currently learning about Kubernetes, EKS, ArgoWF and ArgoCD
 - 👯 My hobbies: Singing, Yoga, and Painting
 - 😄 Pronouns: She/Her
