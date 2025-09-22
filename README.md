@@ -4,15 +4,15 @@
 **jennajiali/jennajiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎓 I’m a final-year Statistical Science student at University College London
+- 🎓 I’m a final-year Statistical Science student at University College London.
 
-- 🌱 As well as learning data science and machine learning as part of my course, I have actively sought opportunities to gain real-world exposure to the application of technology and data in the industry. Through Spring and Summer Internships, I have developed a solid foundation working with Python, SQL & relational databases, and YAML configuration files, and familiarity with JavaScript, HTML, CSS, and the Django web development framework. I'm proficient in using the Request library to download data via API endpoints, as well as using Selenium automation to ethically scrape data from websites. 
+- 🌱 Alongside learning data science and machine learning as part of my course, I have actively sought opportunities to gain real-world exposure to the application of technology and data in industry. Through spring and summer internships, I have built a solid foundation in Python, SQL, relational databases, and YAML configuration files, and gained familiarity with JavaScript, HTML, CSS, and the Django web development framework. I am also proficient in using the Requests library to download data via API endpoints and in using Selenium automation to ethically scrape data from websites.
 
-- 💼 The industry exposure I had, such as interning as a data engineer aligned with the Commodities and Global Markets business, broadened my skillset in data analytics workflows and DevOps (where I dove deep into Kubernetes, EKS, ArgoWF, ArgoCD). It also allowed me to speak directly with clients and business analysts, and through this experience, I was able to pick up finance terminology and gain knowledge about various assets' features in the commodities, fixed income, and FX markets. My attention to detail was commended as excellent when I carefully clarified and understood the requirements with the client to make sure the data pipeline I was building was delivering the exact input data they needed. 
+- 💼 My industry experience includes interning as a data engineer aligned with the Commodities and Global Markets business, which broadened my skillset in data analytics workflows and DevOps (where I worked extensively with Kubernetes, EKS, Argo Workflows, and ArgoCD). I also engaged directly with clients and business analysts, where I not only picked up finance terminology but also developed an understanding of various assets in the commodities, fixed income, and FX markets. My attention to detail was commended as excellent when I clarified requirements with clients to ensure the data pipeline I was building delivered exactly what they needed.
 
-- 💻 Gaining insight into the high-frequency and low-latency trading system used at proprietary trading companies also inspired me regarding the advantages of using C++ in certain application scenarios.
+- 💻 Exposure to high-frequency and low-latency trading systems at proprietary trading firms also inspired me to appreciate the advantages of using C++ in specific application scenarios.
 
-- 📖 Other interesting modules I have as part of my degree include: Computational Statistics, Stochastic Methods in Finance, Algorithm and Data Structures, Optimisation, Applied Multivariate and High Dimensional Methods, Time-Series Forecasting, Bayesian Statistics, and the maths ones like Mathematical Analysis and Advanced Linear Algebra. 
+- 📖 Other interesting modules I have taken as part of my degree include Computational Statistics, Stochastic Methods in Finance, Algorithms and Data Structures, Optimisation, Applied Multivariate and High-Dimensional Methods, Time-Series Forecasting, Bayesian Statistics, as well as more theoretical courses such as Mathematical Analysis and Advanced Linear Algebra.
 
 - 👯 My hobbies: Choir Singing, Yoga, and Painting
 
