@@ -17,3 +17,5 @@
 - 👯 My hobbies: Choir Singing, Yoga, and Painting
 
 - 😄 Pronouns: She/Her
+
+Please feel free to reach out and connect :)
