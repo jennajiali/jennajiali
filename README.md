@@ -12,7 +12,7 @@
 
 - 💻 Exposure to **high-frequency and low-latency trading systems** at proprietary trading firms also inspired me to appreciate the advantages of using **C++** in specific application scenarios.
 
-- 📖 Other interesting modules I have taken as part of my degree include **Computational Statistics, Stochastic Methods in Finance, Algorithms and Data Structures, Optimisation, Applied Multivariate and High-Dimensional Methods, Time-Series Forecasting, Bayesian Statistics**, as well as more theoretical courses such as **Mathematical Analysis and Advanced Linear Algebra**.
+- 📖 Other interesting modules I have taken as part of my degree include **Computational Statistics, Stochastic Methods in Finance, Algorithms and Data Structures, Optimisation, Applied Multivariate and High-Dimensional Methods, Time-Series Forecasting, Bayesian Statistics**.
 
 - 👯 My hobbies: Choir Singing, Yoga, and Painting
 
