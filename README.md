@@ -10,7 +10,7 @@
 
 - 💼 My industry experience includes interning as a **software/data platform engineer** aligned with the **Commodities and Global Markets** division, which broadened my skillset in data analytics workflows and **DevOps (where I worked extensively with Kubernetes and cloud deployments involving EKS, Argo Workflows, and ArgoCD)**. I also engaged directly with our clients, where I developed an understanding of various assets in the **commodities, fixed income, and FX markets**. My attention to detail was commended as excellent when I clarified requirements with clients to ensure the data pipeline I was building delivered exactly what they needed.
 
-- 📖 Key modules I have taken: **Statistical Machine Learning, Stochastic Processes, Algorithms and Data Structures, Applied Multivariate and High-Dimensional Methods, Bayesian Statistics, Stochastic Calculus, Linear Algebra**.
+- 📖 Key modules I have taken: **Statistical Machine Learning, Stochastic Processes, Algorithms and Data Structures, Applied Multivariate and High-Dimensional Methods, Bayesian Statistics, Stochastic Calculus, Linear Algebra, Probability and Statistics**.
 
 - 👯 My hobbies: Choir Singing, Yoga, and Painting
 
