@@ -12,7 +12,7 @@
 
 - 📖 Key modules I have taken: **Statistical Machine Learning, Stochastic Processes, Algorithms and Data Structures, Applied Multivariate and High-Dimensional Methods, Bayesian Statistics, Stochastic Calculus, Linear Algebra, Probability and Statistics**.
 
-- 👯 My hobbies: Choir Singing, Yoga, and Painting
+- 👯 My hobbies: Singing, Dancing, Yoga, and Painting
 
 - 😄 Pronouns: She/Her
 
