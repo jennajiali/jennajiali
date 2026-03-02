@@ -1,4 +1,4 @@
-## Hi there, I'm Jenna (Jia Li)
+## Hi there, I'm Jenna (Jia Li), welcome to my GitHub!
 
 <!--
 **jennajiali/jennajiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
