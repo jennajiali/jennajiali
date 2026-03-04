@@ -40,13 +40,32 @@
   </a>
 </p>
 
-### 🗄 Databases & Data
+### 🗄 Databases
 <p>
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+  <a href="https://www.sqlite.org/docs.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+</p>
+
+### ⚙️ Data Engineering & Processing
+<p>
+  <a href="https://spark.apache.org/docs/latest/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  </a>
+  <a href="https://airflow.apache.org/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/s3/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/athena/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
 </p>
 
@@ -73,9 +92,6 @@
   </a>
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://docs.posit.co/ide/" target="_blank">
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
   </a>
 </p>
 
