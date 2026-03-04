@@ -70,38 +70,9 @@
 
 ## 📚 Libraries & Frameworks
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**🐍 Python:** NumPy • Pandas • SciPy • Matplotlib • Seaborn • Scikit-Learn • statsmodels • TensorFlow • Jupyter
 
-**🐍 Python**
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- statsmodels
-- TensorFlow
-- Jupyter Notebook
-
-</td>
-<td valign="top" width="50%">
-
-**📊 R**
-- tidyverse (dplyr, tidyr)
-- ggplot2
-- data.table
-- glmnet
-- MASS
-- copula
-- tseries
-- survival
-- R Markdown / knitr
-
-</td>
-</tr>
-</table>
+**📊 R:** tidyverse (dplyr, tidyr) • ggplot2 • data.table • glmnet • MASS • copula • tseries • survival • R Markdown
 
 ---
 
