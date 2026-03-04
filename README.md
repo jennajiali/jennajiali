@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Jenna 👋</h1>
-<h3 align="center">Statistical Science @ UCL | Data Engineering | Machine Learning</h3>
 
 ---
 
