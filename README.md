@@ -2,7 +2,7 @@
 <h3 align="center">Statistical Science @ UCL | Data Engineering | Machine Learning</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/jennajiali">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
