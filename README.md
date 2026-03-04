@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Jenna 👋</h1>
 <h3 align="center">A passionate student interested in machine learning, software engineering, and quantitative methods</h3>
 
----
 
 ## 👩‍🎓 About Me
 
