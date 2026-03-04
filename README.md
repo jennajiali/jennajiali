@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Jenna 👋</h1>
+<h3 align="center">A passionate student interested in machine learning, software engineering, and quantitative methods</h3>
 
 ---
 
 ## 👩‍🎓 About Me
 
 - 🎓 Final-year **Statistical Science** student at **University College London** on track for a First-Class Honours
-- 💻 Interested in **Machine Learning, Optimisation and Quantitative Modeling**
-- 🚀 Former **Data Platform Engineer Intern** at Macquarie
+- 💻 Former **Data Platform Engineer Intern** at Macquarie
 - 🌱 Seeking internship opportunities in data science research and applications
 - 🎨 Hobbies: Dancing, Badminton, Painting
 
