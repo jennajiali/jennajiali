@@ -15,102 +15,80 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Programming & Scripting
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**💻 Programming & Scripting**
 <p>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://cran.r-project.org/manuals.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=r" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" />
-  </a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://cran.r-project.org/manuals.html" target="_blank"><img src="https://skillicons.dev/icons?i=r" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" /></a>
 </p>
 
-### 🗄 Databases
+**⚙️ Data Engineering & Processing**
 <p>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-  </a>
+  <a href="https://spark.apache.org/docs/latest/" target="_blank"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
+  <a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/></a>
+  <a href="https://docs.aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>
+  <a href="https://docs.aws.amazon.com/athena/" target="_blank"><img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 </p>
 
-### ⚙️ Data Engineering & Processing
+</td>
+<td valign="top" width="50%">
+
+**🗄 Databases**
 <p>
-  <a href="https://spark.apache.org/docs/latest/" target="_blank">
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  </a>
-  <a href="https://airflow.apache.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  </a>
-  <a href="https://docs.aws.amazon.com/s3/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  </a>
-  <a href="https://docs.aws.amazon.com/athena/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
 </p>
 
-### ☁️ Cloud & DevOps
+**☁️ Cloud & DevOps**
 <p>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://kubernetes.io/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" />
-  </a>
-  <a href="https://docs.aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </p>
 
-### 📊 Tools & Environments
+**📊 Tools & Environments**
 <p>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Libraries & Frameworks
 
-### 🐍 Python
-- NumPy  
-- Pandas  
-- SciPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-Learn  
-- statsmodels  
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🐍 Python**
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- statsmodels
 - TensorFlow
 - Jupyter Notebook
 
-### 📊 R
+</td>
+<td valign="top" width="50%">
+
+**📊 R**
 - tidyverse (dplyr, tidyr)
 - ggplot2
 - data.table
@@ -120,6 +98,10 @@
 - tseries
 - survival
 - R Markdown / knitr
+
+</td>
+</tr>
+</table>
 
 ---
 
