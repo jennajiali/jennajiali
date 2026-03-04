@@ -9,8 +9,7 @@
 - 💻 Interested in **Data Engineering, Machine Learning, and Quantitative Systems**
 - 🚀 Former **Data Platform Engineer Intern** at Macquarie
 - 🌱 Passionate about building production-ready data pipelines and scalable systems
-- 🎨 Hobbies: Dancing, Badminton, Painting  
-- 😄 Pronouns: She/Her  
+- 🎨 Hobbies: Dancing, Badminton, Painting
 
 ---
 
