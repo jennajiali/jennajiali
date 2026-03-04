@@ -8,7 +8,7 @@
 - 🎓 Final-year **Statistical Science** student at **University College London**
 - 💻 Interested in **Data Engineering, Machine Learning, and Quantitative Systems**
 - 🚀 Former **Data Platform Engineer Intern** at Macquarie
-- 🌱 Passionate about building production-ready data pipelines and scalable systems
+- 🌱 Seeking internship opportunities in data science research and applications
 - 🎨 Hobbies: Dancing, Badminton, Painting
 
 ---
