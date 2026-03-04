@@ -1,19 +1,20 @@
-## Hi, I'm Jenna, welcome to my GitHub!
+## Hi, I'm Jenna — welcome to my GitHub!
 
-<!--
-**jennajiali/jennajiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🎓 I’m a final-year **Statistical Science** student at **University College London**. My repositories showcase personal projects, research work, and hackathon experiences across data science, machine learning, and data engineering.
 
-- 🎓 I’m a final-year Statistical Science student at University College London.
+- 🌱 Alongside my degree in **data science and machine learning**, I actively pursue practical industry and research experience. Through spring and summer internships, I have developed strong proficiency in **Python, SQL, relational databases, Shell scripting, JavaScript, HTML/CSS, Docker, Kubernetes, and DevOps tooling for cloud deployments**.
 
-- 🌱 Alongside learning **data science and machine learning** as part of my course, I have actively sought opportunities to gain real-world exposure to the application of technology and data in industry. Through spring and summer internships, I have built a solid foundation in **Python, relational SQL databases, and YAML configuration files**, and gained familiarity with **JavaScript, HTML, CSS, and the Django web development framework**. I am also proficient in using the **Requests** library to download data via API endpoints and in using **Selenium** automation to ethically scrape data from websites.
+- 💻 Last summer, I interned as a **Data Platform Engineer** at Macquarie, where I designed and built an end-to-end ETL data pipeline and deployed it into production.  
+  - The pipeline runs three times daily via **Apache Airflow** and **Spark**, ingesting and transforming data into curated data lake tables for downstream analytics, modelling, and reporting.  
+  - I self-learned **Docker** and **Kubernetes** to containerise and deploy the pipeline into AWS, working with **EKS**, **Argo Workflows**, and **ArgoCD**.  
+  - I collaborated directly with clients across commodities, fixed income, and FX markets, ensuring accurate requirement translation into robust data solutions. My attention to detail was commended for delivering precisely what stakeholders needed.
 
-- 💼 My industry experience includes interning as a **software/data platform engineer** aligned with the **Commodities and Global Markets** division, which broadened my skillset in data analytics workflows and **DevOps (where I worked extensively with Kubernetes and cloud deployments involving EKS, Argo Workflows, and ArgoCD)**. I also engaged directly with our clients, where I developed an understanding of various assets in the **commodities, fixed income, and FX markets**. My attention to detail was commended as excellent when I clarified requirements with clients to ensure the data pipeline I was building delivered exactly what they needed.
+- 📖 **Key Modules:** Statistical Machine Learning, Algorithms & Data Structures, Bayesian Statistical Inference, Applied Multivariate & High-Dimensional Methods, Stochastic Methods for Finance, Regression Modelling, Applied Probability & Stochastic Processes, and Quantitative Operational Risk Modelling.
 
-- 📖 Key modules I have taken: **Statistical Machine Learning, Algorithms and Data Structures, Applied Multivariate and High-Dimensional Methods, Bayesian Statistical Inference, Stochastic Methods for Finance, Calculus & Linear Algebra, Probability & Statistics, Applied Probability and Stochastic Processes, Regression Modelling, and Quantitative Modelling of Operational Risks**.
+- 👯 **Hobbies:** Dancing, Badminton, and Painting  
 
-- 👯 My hobbies: Singing, Dancing, Yoga, and Painting
+- 😄 **Pronouns:** She/Her  
 
-- 😄 Pronouns: She/Her
+---
 
-Please feel free to reach out and connect :)
+Feel free to connect with me on LinkedIn — I’m always open to interesting conversations and collaborations!
