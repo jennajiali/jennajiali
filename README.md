@@ -5,7 +5,7 @@
 ## 👩‍🎓 About Me
 
 - 🎓 Final-year **Statistical Science** student at **University College London** on track for a First-Class Honours
-- 💻 Former **Data Platform Engineer Intern** at Macquarie
+- 💻 Former **Data Platform Engineer Intern** at Macquarie Group
 - 🌱 Seeking internship opportunities in data science research and applications
 - 🎨 Hobbies: Dancing, Badminton, Painting
 
