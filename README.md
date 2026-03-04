@@ -76,13 +76,13 @@
 
 ## 💼 Internship Experience
 
-**Data Platform Engineer Intern – Macquarie**
+**Data Platform Engineer Intern at Macquarie Group (Jun-Aug 2025)**
 
 - Designed and deployed an end-to-end ETL data pipeline into production
 - Orchestrated scheduled workflows using Apache Airflow and Spark
 - Containerised and deployed services using Docker and Kubernetes (EKS)
 - Managed workflows via Argo Workflows and ArgoCD
-- Delivered data solutions for commodities, fixed income, and FX stakeholders
+- Translated complex business requirements from financial stakeholders into automated data solutions. 
 
 ---
 
