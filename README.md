@@ -81,7 +81,7 @@
 - Designed and deployed an end-to-end ETL data pipeline into production
 - Orchestrated scheduled workflows using Apache Airflow and Spark
 - Containerised and deployed services using Docker and Kubernetes (EKS)
-- Managed workflows via Argo Workflows and ArgoCD
+- Managed workflows via cloud CI/CD tooling, Argo Workflows and ArgoCD
 - Translated complex business requirements from financial stakeholders into automated data solutions. 
 
 ---
