@@ -78,7 +78,7 @@
 
 **Data Platform Engineer Intern at Macquarie Group (Jun-Aug 2025)**
 
-- Designed and deployed an end-to-end ETL data pipeline into production
+- Designed, implemented and deployed an end-to-end ETL data pipeline into production
 - Orchestrated scheduled workflows using Apache Airflow and Spark
 - Containerised and deployed services using Docker and Kubernetes (EKS)
 - Managed workflows via cloud CI/CD tooling, Argo Workflows and ArgoCD
